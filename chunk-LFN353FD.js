@@ -184,7 +184,6 @@ import{$,Ba as oe,Ca as te,D as w,Da as me,Ea as re,Ga as se,H,Ha as l,Ia as pe,
 }
 :root .game-card.selected .card-check {
   opacity: 1;
-//   transform: scale(1);
 }
 :root .game-card.taken {
   opacity: 1;
@@ -275,7 +274,6 @@ import{$,Ba as oe,Ca as te,D as w,Da as me,Ea as re,Ga as se,H,Ha as l,Ia as pe,
 }
 :root .game-card.selected .card-check {
   opacity: 1;
-  transform: scale(1);
 }
 :root .game-card.taken {
   opacity: 1;
@@ -349,7 +347,6 @@ import{$,Ba as oe,Ca as te,D as w,Da as me,Ea as re,Ga as se,H,Ha as l,Ia as pe,
 }
 .game-card.selected .card-check {
   opacity: 1;
-//   transform: scale(1);
 }
 .game-card.taken {
   opacity: 1;
@@ -446,7 +443,6 @@ import{$,Ba as oe,Ca as te,D as w,Da as me,Ea as re,Ga as se,H,Ha as l,Ia as pe,
 }
 .game-card.selected .card-check {
   opacity: 1;
-//   transform: scale(1);
 }
 .game-card.taken {
   opacity: 1;
